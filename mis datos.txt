@@ -1,2 +1,4 @@
-Nombre: Stephany
+Nombre: Stephany Lorenzana
+Edad: 17
 Grado: Quinto Baco compu
+Materia: Matematica
